@@ -1,0 +1,13 @@
+C:\Users\sever\workspace\guessing-game\obj\Debug\netcoreapp3.1\guessing-game.csprojAssemblyReference.cache
+C:\Users\sever\workspace\guessing-game\obj\Debug\netcoreapp3.1\guessing-game.AssemblyInfoInputs.cache
+C:\Users\sever\workspace\guessing-game\obj\Debug\netcoreapp3.1\guessing-game.AssemblyInfo.cs
+C:\Users\sever\workspace\guessing-game\obj\Debug\netcoreapp3.1\guessing-game.csproj.CoreCompileInputs.cache
+C:\Users\sever\workspace\guessing-game\bin\Debug\netcoreapp3.1\guessing-game.exe
+C:\Users\sever\workspace\guessing-game\bin\Debug\netcoreapp3.1\guessing-game.deps.json
+C:\Users\sever\workspace\guessing-game\bin\Debug\netcoreapp3.1\guessing-game.runtimeconfig.json
+C:\Users\sever\workspace\guessing-game\bin\Debug\netcoreapp3.1\guessing-game.runtimeconfig.dev.json
+C:\Users\sever\workspace\guessing-game\bin\Debug\netcoreapp3.1\guessing-game.dll
+C:\Users\sever\workspace\guessing-game\bin\Debug\netcoreapp3.1\guessing-game.pdb
+C:\Users\sever\workspace\guessing-game\obj\Debug\netcoreapp3.1\guessing-game.dll
+C:\Users\sever\workspace\guessing-game\obj\Debug\netcoreapp3.1\guessing-game.pdb
+C:\Users\sever\workspace\guessing-game\obj\Debug\netcoreapp3.1\guessing-game.genruntimeconfig.cache
